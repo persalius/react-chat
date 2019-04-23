@@ -12,19 +12,12 @@ body {
   background-color: #3f51b5;
 }
 
-
-.MiniDrawer-content-10 {
-  position: relative;
-  height: 100vh;
-  max-height: 100vh;
-  padding: 24px 0 !important;
-}
-
 .messages-area {
-  height: 84vh;
+  height: 82vh;
   overflow: auto;
   margin-top: 40px;
-  padding: 15px 24px 0;
+  /* padding: 15px 24px 0; */
+  padding-left: 24px;
 }
 
 .messageWrapper {
@@ -36,6 +29,7 @@ body {
 
 .messageWrapperForMe {
   justify-content: flex-end;
+  margin-right: 24px;
 }
 
 .message {
@@ -50,10 +44,4 @@ body {
   margin-right: 16px;
   margin-left: 0;
   background-color: #ffb74d !important;
-}
-
-.MuiList-root-154 {
-  overflow-y: auto;
-  overflow-x: hidden;
-  height: calc(100% - 179px);
 }
