@@ -1,0 +1,54 @@
+{
+    "chats": [
+        {"title": "Sergey Persal"},
+        {"title": "Natasha"},
+        {"title": "Denis"},
+        {"title": "Dima"},
+        {"title": "Julia"},
+        {"title": "Olga"},
+        {"title": "All"},
+        {"title": "Private"},
+        {"title": "for gamers"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"},
+        {"title": "Sergey"}
+    ],
+    "messages": [
+        {
+            "sender": "some one",
+            "content": "Hellow, World!"
+        },
+        {
+            "sender": "someone",
+            "content": "first message"
+        },
+        {
+            "sender": "me",
+            "content": "Hi"
+        },
+        {
+            "sender": "me",
+            "content": "whats up?"
+        },
+        {
+            "sender": "me",
+            "content": "cool"
+        },
+        {
+            "sender": "someone",
+            "content": "rock"
+        },
+        {
+            "sender": "pers",
+            "content": "lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field lorem text input field"
+        }
+    ]
+}
